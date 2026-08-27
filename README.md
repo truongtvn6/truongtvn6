@@ -16,8 +16,11 @@
 IT Support Intern — University of Transport HCM City Partnership Team
 
 ~ Resolved hardware and software support tickets reported by teachers and staff.
+
 ~ Maintained and administered PC labs, keeping systems stable for daily academic use.
+
 ~ Designed and set up LAN infrastructure for several office rooms — cabling, switch configuration, and basic network troubleshooting.
+
 ~ Transferable skills for dev work: debugging under pressure, documenting fixes clearly, and understanding systems end-to-end (from hardware/network up to the software layer).
 
 📫 Let's Connect
