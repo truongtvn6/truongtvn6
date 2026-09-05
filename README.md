@@ -3,15 +3,15 @@
   👨‍💻 About Me
   
 
-🎯 A Software/Web Dev student focused on backend engineering, currently building hands-on projects with Go, Node.js, PostgreSQL and Redis.
+~ A Software/Web Dev student focused on backend engineering, currently building hands-on projects with Go, Node.js, PostgreSQL and Redis.
 
-🛠️ Previously worked as an IT Support intern at my university — handling tickets, troubleshooting hardware, and doing hands-on infrastructure work (see below).
+~ Previously worked as an IT Support intern at my university — handling tickets, troubleshooting hardware, and doing hands-on infrastructure work (see below).
 
-🚀 Right now I'm in an intensive self-driven coding phase — shipping projects fast, learning by building.
+~ Right now I'm in an intensive self-driven coding phase — shipping projects fast, learning by building.
 
-🌱 Open to backend / full-stack internship opportunities where I can keep growing.
+~ Open to backend / full-stack internship opportunities where I can keep growing.
 
-🐱🎧🎮 Outside of code: I like cats, music, and esports games — always down to talk about any of the three.
+~ Outside of code: I like cats, music, and games — always down to talk about any of the three.
 
   💼 Experience
   
