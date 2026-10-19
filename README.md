@@ -3,7 +3,7 @@
   👨‍💻 About Me
   
 
-~ A Software/Web Dev student focused on backend engineering, currently building hands-on projects with Go, Node.js, PostgreSQL and Redis.
+~ A Software/Web Dev student focused on backend engineering, currently building hands-on projects with Go PostgreSQL and Redis. Now im starting with Nodejs
 
 ~ Previously worked as an IT Support intern at my university — handling tickets, troubleshooting hardware, and doing hands-on infrastructure work (see below).
 
